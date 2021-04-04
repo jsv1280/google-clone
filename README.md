@@ -13,7 +13,7 @@
 
 ## :trophy: Certification
 
-[Platzi Course](https://platzi.com/p/jairosalazar1280/curso/)
+[Platzi Course](https://platzi.com/p/jairosalazar1280/curso/1758-html-practico/diploma/detalle/)
 
 ## :black_nib: Author
 -  [Jairo Salazar][github_url] Software Developer
